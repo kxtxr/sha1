@@ -21,6 +21,6 @@ int main(int argc, char *argv[])
 	} else {
 		cout << "sha1: invalid option\nUsage: ./sha1 [ -f filelocation]\n              [ message ]" << endl;
 	}
-    // cout << "sha1('nhub'): " << sha1("grape") << endl;
+    // cout << "sha1('nhub'): " << sha1("nhub") << endl;
     return 0;
 }
